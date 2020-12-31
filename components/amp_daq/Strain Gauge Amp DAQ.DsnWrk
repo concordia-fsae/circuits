@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\altium_data\Device Sheets\Quarter to Full Bridge Strain Gauge Amplifier\Quarter to Full Bridge Strain Gauge Amplifier.PrjPcb
+[Project2]
+ProjectPath=..\..\steering_wheel\circuit\Steering Wheel.PrjPcb
