@@ -1,0 +1,3 @@
+[submodule "altium_data"]
+	path = altium_data
+	url = git@github.com:concordia-fsae/altium_data.git
