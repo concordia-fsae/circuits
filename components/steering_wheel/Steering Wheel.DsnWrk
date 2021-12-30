@@ -1,24 +1,32 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=..\..\altium_data\Device Sheets\ESP32-WROOM\ESP32-WROOM.PrjPcb
-[Project2]
 ProjectPath=..\..\altium_data\Libraries\Dummy Parts\Dummy Parts.LibPkg
-[Project3]
-ProjectPath=..\..\altium_data\Device Sheets\MCP2515 Module\MCP2515 Module.PrjPcb
-[Project4]
+[Project2]
 ProjectPath=..\..\altium_data\Device Sheets\1ms Debouncer\1ms Debouncer.PrjPcb
-[Project5]
+[Project3]
 ProjectPath=..\..\altium_data\Device Sheets\(3V-16V)-5V Regulator\(3V-16V)-5V Regulator.PrjPcb
-[Project6]
+[Project4]
 ProjectPath=..\..\altium_data\Device Sheets\STM32F411CEU6\STM32F411CEU6.PrjPcb
-[Project7]
+[Project5]
 ProjectPath=..\..\altium_data\Libraries\Crystals\Crystals.LibPkg
-[Project8]
+[Project6]
 ProjectPath=..\..\altium_data\Device Sheets\10ms Debouncer\10ms Debouncer.PrjPcb
-[Project9]
-ProjectPath=Steering Wheel.PrjPcb
-[Project10]
+[Project7]
 ProjectPath=..\..\altium_data\Libraries\Solder Jumpers\Solder Jumpers.LibPkg
-[Project11]
+[Project8]
 ProjectPath=..\..\altium_data\Libraries\Solder Pads\Solder Pads.LibPkg
+[Project9]
+ProjectPath=..\..\altium_data\Device Sheets\STM32F103C8T6\STM32F103C8T6.PrjPcb
+[Project10]
+ProjectPath=Steering Wheel.PrjPcb
+[Project11]
+ProjectPath=E:\Google Drive\Stuff\Altium\Device Sheets\STM32F411CEU6\STM32F411CEU6.PrjPcb
+[Project12]
+ProjectPath=..\..\altium_data\Libraries\Connectors\Connectors.LibPkg
+[Project13]
+ProjectPath=..\amp_daq\Strain Gauge Amp-DAQ.PrjPcb
+[Project14]
+ProjectPath=..\..\altium_data\Device Sheets\Quarter to Full Bridge Strain Gauge Amplifier\Quarter to Full Bridge Strain Gauge Amplifier.PrjPcb
+[Project15]
+ProjectPath=..\..\altium_data\Device Sheets\Quarter Bridge Strain Gauge\Quarter Bridge Strain Gauge.PrjPcb
